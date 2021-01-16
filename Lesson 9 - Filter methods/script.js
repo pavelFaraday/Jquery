@@ -16,7 +16,7 @@ $(document).ready(function () {
     });
 
     // not method
-    $('ul').not('.green').css('color', 'red');
+    $('li').not('.green').css('color', 'red');
 });
 
 
